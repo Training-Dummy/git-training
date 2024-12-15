@@ -45,6 +45,7 @@ This is a practice repo for learning to use Git
    - Navigate to GitHub and under the "Pull requests" tab, select your branch to merge into `main`.
 
 7. **Add 2 of your neighbor as reviewers**.
+   - Note: Add them as reviewers, not assignees
 
 8. **Wait for a review**. Review your neighbor's pull request.
 
