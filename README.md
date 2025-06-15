@@ -31,6 +31,11 @@ This is a practice repo for learning to use Git
    ```bash
    git push origin <branch name>
    ```
+   or simply:
+   ```bash
+   git push origin head
+   ```
+   
    - For example:  
      ```bash
      git push origin first_last
@@ -38,6 +43,10 @@ This is a practice repo for learning to use Git
    - Or simply:  
      ```bash
      git push
+     ```
+   - If the remote branch does not already exist:
+     ```bash
+      git push -u origin <branch_name>
      ```
 </br></br>
 
